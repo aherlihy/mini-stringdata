@@ -1,0 +1,5 @@
+[{
+	"directory": "/home/ubuntu/subtest",
+	"command": "g++ -o main.o main.cpp MurmurHash3.o string_data.o",
+	"file": "/home/ubuntu/subtest/main.cpp" 
+}]
